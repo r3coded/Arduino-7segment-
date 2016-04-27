@@ -1,5 +1,6 @@
 /* this code is for a 7 segment common anode display;
   ©r3coded
+  (for the pin layout of the display check the img in this repository)
   Arduino Pin 2 to Pin 7.
   Arduino Pin 3 to Pin 6.
   Arduino Pin 4 to Pin 4.
