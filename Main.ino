@@ -7,7 +7,12 @@
   Arduino Pin 6 to Pin 1.
   Arduino Pin 8 to Pin 9.
   Arduino Pin 9 to Pin 10.
- VCC to Pin 3 and Pin 8 each connected with 220 ohm resistors. */
+ VCC to Pin 3 and Pin 8 each connected with 220 ohm resistors.
+ 
+ Note: if you have a common cathode display connect pin 3 and 8 of your display trough two 220 ohm resistors to GND,
+ and exchange "HIGH' & "LOW"
+ in the code
+ */
 
 
 int a = 2;  //For displaying segment "a"
