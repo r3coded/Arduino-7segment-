@@ -1,6 +1,7 @@
  /*
 This is a remake of the makezine tutorial see: http://makezine.com/projects/drive-a-7-segment-led-with-an-arduino/ 
 ,but then for the setup you can see in the Main of this repository.
+note: In this code you don't need to exchange "HIGH"&"LOW" for a common cathode display.
 (Rewritten by r3coded)
   */
 
